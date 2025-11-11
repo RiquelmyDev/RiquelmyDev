@@ -43,7 +43,7 @@
 <a href="www.linkedin.com/in/riquelmyvasconcelos" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-riquelmydev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/riquelmydev/" target="_blank">
+<a href="https://www.instagram.com/rxquelmy/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-riquelmydev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
